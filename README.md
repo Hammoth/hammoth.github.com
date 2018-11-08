@@ -1,2 +1,2 @@
-# hammoth.github.com
+# hammoth.github.io
 personal homepage
